@@ -1,4 +1,3 @@
-# Generating_image-caption
 # GENERATING IMAGE CAPTION USING CNN AND LSTM
 
 ### ABSTRACT
